@@ -1,0 +1,6 @@
+﻿token= NTc3MDY0MTEyNzE5MjY1ODAy.XNfm7A.8JeAKAx9APAof14TWFZagKDsoPs
+owner= 413660639668731914
+prefix= -play
+game= #Riyderz|-play
+stayinchannel=true
+songinstatus=true
